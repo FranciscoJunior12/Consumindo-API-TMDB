@@ -22,4 +22,6 @@ const Moviecard = ({ movie, showLink = true }) => {
 
 };
 
+
 export default Moviecard;
+
