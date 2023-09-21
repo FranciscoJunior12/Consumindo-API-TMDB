@@ -25,3 +25,7 @@ Este é um projeto React que desenvolvi com o objetivo de aprender como consumir
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+## Autor
+- [Francisco junior](https://github.com/FranciscoJunior12/)
+- Para visualizar o site, basta [clicar aqui](https://themovielibrary.netlify.app/)
